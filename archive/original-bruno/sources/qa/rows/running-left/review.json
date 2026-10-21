@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "<original-workspace>/work/bruno/qa/rows/running-left/frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15852,
+          "bbox": [
+            30,
+            7,
+            160,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14526,
+          "bbox": [
+            37,
+            7,
+            154,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15829,
+          "bbox": [
+            29,
+            6,
+            163,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14587,
+          "bbox": [
+            35,
+            5,
+            156,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15847,
+          "bbox": [
+            30,
+            6,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14040,
+          "bbox": [
+            35,
+            5,
+            157,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15621,
+          "bbox": [
+            23,
+            6,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/bruno/qa/rows/running-left/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15165,
+          "bbox": [
+            34,
+            5,
+            158,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "ambiguous",
+      "reason": "A\u2019s nose points up-left; B\u2019s muzzle is nearly front-facing, without a clear horizontal turn."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A\u2019s nose points left; B\u2019s nose points right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s muzzle points right; B\u2019s muzzle points left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A faces right in profile; B faces left in profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s nose projects to the right; B\u2019s projects to the left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A\u2019s muzzle and gaze turn left; B\u2019s turn right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "screen-right",
+      "reason": "A\u2019s nose is close to center with no clear left/right turn; B\u2019s nose and visible eye line angle right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "down",
+      "reason": "Both faces are lowered, with eyes directed toward the mat; B also turns slightly right."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowers its muzzle and eyes; B raises its muzzle and eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A looks down-right; B faces mostly forward with no clear vertical tilt."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises its muzzle and gaze; B\u2019s muzzle and eye line angle downward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A\u2019s visible pupil sits high in the eye as the face tilts slightly up; B looks right at a nearly level angle."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A looks up-left; B lowers its muzzle and gaze."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A\u2019s left-facing profile is near level; B raises its muzzle and gaze toward the upper left."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-right",
+      "frames": [
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/00.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/01.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/02.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/03.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/04.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/05.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/06.png",
+        "<original-workspace>/work/pixel-judoka-bruno/qa/rows/running-right/frames/running-right/07.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

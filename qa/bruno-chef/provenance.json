@@ -1,0 +1,10 @@
+{
+  "source": "<original-workspace>/work/repair-2026-10-21/current-chef.png",
+  "source_sha256": "e2958eb3fc78d25efdc4c4b8d2f2b8933b860a2e79cd49d24753e60fa0ea42ae",
+  "operation": "one shared nearest-neighbor scale and baseline for all 73 frames",
+  "scale": 1.08,
+  "source_baseline": 202,
+  "destination_baseline": 204,
+  "semantic_evidence": "<original-workspace>/work/pixel-chef-bruno/qa/direction-semantics-r2.json",
+  "chroma_evidence": "<original-workspace>/work/pixel-chef-bruno/qa/chroma-despill-r2.json"
+}

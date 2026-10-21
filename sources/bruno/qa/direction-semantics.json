@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"label":"000","expected":"up","observed":"up","verdict":"pass","evidence":"Both pupils sit high within the glasses and the nose/muzzle angle lifts above the head center."},
+    {"label":"022.5","expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Pupils and muzzle shift toward screen-right while remaining above the face center."},
+    {"label":"045","expected":"up-right","observed":"up-right","verdict":"pass","evidence":"The head turns to screen-right; the visible eye and muzzle lead diagonally upward-right."},
+    {"label":"067.5","expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Three-quarter head turn places the muzzle and visible eye to screen-right, with the gaze above center."},
+    {"label":"090","expected":"right","observed":"right","verdict":"pass","evidence":"The face is in a clear right-facing profile with muzzle projecting to the viewer's right."},
+    {"label":"112.5","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Right-facing head remains turned toward screen-right while the eye and muzzle angle below center."},
+    {"label":"135","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"The gaze drops below center and the muzzle remains on the screen-right side of the head."},
+    {"label":"157.5","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"The eyes and nose sit low and right of the head center, approaching the approved downward pose."},
+    {"label":"180","expected":"down","observed":"down","verdict":"pass","evidence":"Both eyes and the muzzle point vertically below the head center; this matches the cardinal down anchor."},
+    {"label":"202.5","expected":"down-left","observed":"down-left","verdict":"pass","evidence":"The head turns toward screen-left and the gaze/muzzle remain below center."},
+    {"label":"225","expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Muzzle leads to screen-left and pupils sit below the face center."},
+    {"label":"247.5","expected":"down-left","observed":"down-left","verdict":"pass","evidence":"The left-facing three-quarter profile keeps the visible eye and muzzle below center."},
+    {"label":"270","expected":"left","observed":"left","verdict":"pass","evidence":"The face is a clear left-facing profile with muzzle projecting to the viewer's left."},
+    {"label":"292.5","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"The face turns to screen-left, with the visible eye raised above the head center."},
+    {"label":"315","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"The muzzle points left and slightly upward, and the pupils sit above the face center."},
+    {"label":"337.5","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"The head is nearly frontal but still favors screen-left; the pupils and nose are raised toward the upper-left arc."}
+  ]
+}

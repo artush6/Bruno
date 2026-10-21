@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "output_dir": "<original-workspace>/work/repair-2026-10-21/chef/previews",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "<original-workspace>/work/repair-2026-10-21/chef/previews/review.gif",
+      "frames": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s muzzle and eye line point right; B\u2019s point left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s nose points right; B\u2019s nose points left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A faces left; B faces right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s muzzle points right; B\u2019s points left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s muzzle points right; B\u2019s points left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A faces left; B faces right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both faces angle mostly forward and downward, without a clear left/right profile."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A faces forward with a level gaze; B lowers its muzzle and eyes."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A\u2019s gaze drops toward the bowl; B lifts its muzzle and gaze."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A looks downward; B\u2019s right-facing profile is approximately level."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both right-facing profiles hold roughly level head and eye lines."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks down-left; B raises its gaze toward the upper left."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks down-left; B raises its muzzle and gaze toward the upper left."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A looks down-left; B faces left at a mostly level angle."
+    }
+  ]
+}

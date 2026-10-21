@@ -1,0 +1,1 @@
+Feet, torso and belly remain planted and frontal. The head tilts upward/downward and yaws left/right with the muzzle and nose leading. Physical eyes keep their original shape and follow the head. Ears follow the head; near/far muzzle and eye surfaces naturally occlude. No body turntable, replacement eyes, or whole-sprite rotation.

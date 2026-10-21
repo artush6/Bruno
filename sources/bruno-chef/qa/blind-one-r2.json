@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and visible pupil turn left; B muzzle and gaze turn right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle points left; B muzzle and gaze point right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose projects right; B nose projects left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A is right-facing with nose to the right; B is left-facing with nose to the left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and gaze angle down-left; B nose and gaze angle down-right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle points left and gaze drops; B muzzle points right and gaze drops."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "screen-right",
+      "reason": "A looks down nearly toward the viewer, with its nose centered; B muzzle points down-right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle and pupils are raised toward the hat brim; B pupils and muzzle are lowered toward the bowl."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and muzzle point down at the bowl; B muzzle and pupils lift up-right."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A gaze and muzzle dip toward the bowl; B gaze and muzzle lift up-right."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A eye and muzzle angle slightly down-right; B pupils and muzzle angle up-right."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A pupils are lowered toward the bowl; B nose and pupils angle up-left."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle and gaze lift up-left; B eyes and muzzle point down toward the bowl."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle and gaze lift up-left; B head and gaze angle down-left."
+    }
+  ]
+}

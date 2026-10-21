@@ -1,0 +1,122 @@
+[
+  {
+    "state": "idle",
+    "head_heights": [
+      110,
+      111,
+      109,
+      110,
+      111,
+      110
+    ],
+    "scale": 0.7636363636363637,
+    "baseline": 203
+  },
+  {
+    "state": "running-right",
+    "head_heights": [
+      100,
+      100,
+      101,
+      101,
+      100,
+      101,
+      100,
+      101
+    ],
+    "scale": 0.835820895522388,
+    "baseline": 203
+  },
+  {
+    "state": "running-left",
+    "head_heights": [
+      100,
+      100,
+      101,
+      101,
+      100,
+      101,
+      100,
+      101
+    ],
+    "scale": 0.835820895522388,
+    "baseline": 203
+  },
+  {
+    "state": "waving",
+    "head_heights": [
+      108,
+      101,
+      100,
+      108
+    ],
+    "scale": 0.8038277511961722,
+    "baseline": 203
+  },
+  {
+    "state": "jumping",
+    "head_heights": [
+      89,
+      85,
+      79,
+      85,
+      88
+    ],
+    "scale": 0.84,
+    "baseline": 203
+  },
+  {
+    "state": "failed",
+    "head_heights": [
+      104,
+      104,
+      107,
+      108,
+      106,
+      109,
+      106,
+      104
+    ],
+    "scale": 0.7924528301886793,
+    "baseline": 203
+  },
+  {
+    "state": "waiting",
+    "head_heights": [
+      105,
+      108,
+      105,
+      109,
+      105,
+      105
+    ],
+    "scale": 0.8,
+    "baseline": 203
+  },
+  {
+    "state": "running",
+    "head_heights": [
+      103,
+      103,
+      103,
+      104,
+      103,
+      103
+    ],
+    "scale": 0.73,
+    "baseline": 203
+  },
+  {
+    "state": "review",
+    "head_heights": [
+      104,
+      106,
+      107,
+      105,
+      106,
+      104
+    ],
+    "scale": 0.73,
+    "baseline": 203
+  }
+]

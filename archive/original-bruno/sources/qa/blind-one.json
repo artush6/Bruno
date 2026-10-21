@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its muzzle and nose displaced toward screen-right, with eyes following the same side; B has its muzzle and nose displaced toward screen-left, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its muzzle and nose displaced toward screen-left, with eyes following the same side; B has its muzzle and nose displaced toward screen-right, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its muzzle and nose displaced toward screen-left, with eyes following the same side; B has its muzzle and nose displaced toward screen-right, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its muzzle and nose displaced toward screen-left, with eyes following the same side; B has its muzzle and nose displaced toward screen-right, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its muzzle and nose displaced toward screen-right, with eyes following the same side; B has its muzzle and nose displaced toward screen-left, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its muzzle and nose displaced toward screen-left, with eyes following the same side; B has its muzzle and nose displaced toward screen-right, with eyes following that side."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its muzzle and nose displaced toward screen-left, with eyes following the same side; B has its muzzle and nose displaced toward screen-right, with eyes following that side."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises its nose and pupils toward the top of the eye openings; B lowers its muzzle toward its chest and pupils toward the bottom of the eyes."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowers its muzzle toward its chest and pupils toward the bottom of the eyes; B raises its nose and pupils toward the top of the eye openings."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises its nose and pupils toward the top of the eye openings; B lowers its muzzle toward its chest and pupils toward the bottom of the eyes."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises its nose and pupils toward the top of the eye openings; B lowers its muzzle toward its chest and pupils toward the bottom of the eyes."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises its nose and pupils toward the top of the eye openings; B lowers its muzzle toward its chest and pupils toward the bottom of the eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowers its muzzle toward its chest and pupils toward the bottom of the eyes; B raises its nose and pupils toward the top of the eye openings."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowers its muzzle toward its chest and pupils toward the bottom of the eyes; B raises its nose and pupils toward the top of the eye openings."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "running": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "idle": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "running-right": {
+    "scale": 0.751269035532995,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "waving": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "failed": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "waiting": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "review": {
+    "scale": 0.7474747474747475,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  },
+  "running-left": {
+    "scale": 0.751269035532995,
+    "baseline": 203,
+    "reason": "Shared row transform to match 148px standing jump anatomy and 203px landing baseline."
+  }
+}

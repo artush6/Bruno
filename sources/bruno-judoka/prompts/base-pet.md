@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet Pixel Judoka Bruno.
+
+Pet identity: Same Bruno dark chocolate brown bear, tan muzzle, rounded ears and compact chunky silhouette, wearing white judo gi jacket and pants, correct overlapping lapel, short attached black belt and bare brown paws. Crisp square pixel art matching supplied screenshot, limited palette dark outlines, tiny chunky mascot. No clay texture or smooth gradients. Greeting respectful bow, waiting adjusts attached belt expectantly, busy six-stage solo uchi-mata inner-thigh throw rehearsal without opponent, planted pivot foot and other leg swept behind. Leftward gait generated separately correct lapel. Head rotates/tilts while torso and feet anchored for looks..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges.
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

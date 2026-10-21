@@ -1,0 +1,117 @@
+{
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "Face lifts vertically; nose above neutral center and pupils upward, underside of chin visible.",
+      "verdict": "pass",
+      "evidence": "Face lifts vertically; nose above neutral center and pupils upward, underside of chin visible."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "Nose shifts slightly right of center while muzzle remains elevated and eye surfaces aim upward-right; horizontal cue subtle.",
+      "verdict": "warning",
+      "evidence": "Nose shifts slightly right of center while muzzle remains elevated and eye surfaces aim upward-right; horizontal cue subtle."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "Head yaws right, nose to upper-right side of face, pupils elevated with muzzle tilted upward.",
+      "verdict": "pass",
+      "evidence": "Head yaws right, nose to upper-right side of face, pupils elevated with muzzle tilted upward."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "Rightward muzzle profile and eye to right; slight upward pitch above straight-right neighbor, vertical cue subtle.",
+      "verdict": "warning",
+      "evidence": "Rightward muzzle profile and eye to right; slight upward pitch above straight-right neighbor, vertical cue subtle."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "Clear right profile; nose projects toward screen-right and visible eye faces right, torso remains frontal.",
+      "verdict": "pass",
+      "evidence": "Clear right profile; nose projects toward screen-right and visible eye faces right, torso remains frontal."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "Rightward muzzle and eye surface angle slightly below straight-right pose; downward head pitch subtle.",
+      "verdict": "warning",
+      "evidence": "Rightward muzzle and eye surface angle slightly below straight-right pose; downward head pitch subtle."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "Head pitches down and yaws right; nose lower and right of head center, eye looks down-right.",
+      "verdict": "pass",
+      "evidence": "Head pitches down and yaws right; nose lower and right of head center, eye looks down-right."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "Deep downturned face with nose below eyes and offset right, forehead dominates; rightward cue retained.",
+      "verdict": "pass",
+      "evidence": "Deep downturned face with nose below eyes and offset right, forehead dominates; rightward cue retained."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "Frontal bowed head, eyes down toward low central nose, forehead visible and chin lowered.",
+      "verdict": "pass",
+      "evidence": "Frontal bowed head, eyes down toward low central nose, forehead visible and chin lowered."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "Head bowed and nose displaced left below head center; eyes aim toward bottom-left.",
+      "verdict": "pass",
+      "evidence": "Head bowed and nose displaced left below head center; eyes aim toward bottom-left."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "Nose projects left while muzzle and eye line tilt down; forehead visible above down-left eyes.",
+      "verdict": "pass",
+      "evidence": "Nose projects left while muzzle and eye line tilt down; forehead visible above down-left eyes."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "Left profile nose projects left, slightly lowered muzzle/eye relative to straight-left neighbor; vertical cue subtle.",
+      "verdict": "warning",
+      "evidence": "Left profile nose projects left, slightly lowered muzzle/eye relative to straight-left neighbor; vertical cue subtle."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "Clear left profile; nose projects screen-left, visible eye aims left; white jacket/feet frontal.",
+      "verdict": "pass",
+      "evidence": "Clear left profile; nose projects screen-left, visible eye aims left; white jacket/feet frontal."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "Left profile with nose lifted slightly relative to straight-left; pupil/eye aim above horizontal left; subtle pitch.",
+      "verdict": "warning",
+      "evidence": "Left profile with nose lifted slightly relative to straight-left; pupil/eye aim above horizontal left; subtle pitch."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "Muzzle projects upper-left, face pitched upward exposing chin; eye aimed up-left.",
+      "verdict": "pass",
+      "evidence": "Muzzle projects upper-left, face pitched upward exposing chin; eye aimed up-left."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "Head tilted strongly upward, nose at upper-left of head, visible eye surface aimed upward-left; feet anchored.",
+      "verdict": "pass",
+      "evidence": "Head tilted strongly upward, nose at upper-left of head, visible eye surface aimed upward-left; feet anchored."
+    }
+  ],
+  "continuity_review": "Boundary difference metrics at157.5->180 and337.5->000 reviewed at native size: nose smoothly recenters vertically; no planted-body movement, scale pop or reversal. Slight profile-to-frontal facial change accepted."
+}

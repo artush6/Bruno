@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/pixel-cozy-bruno/final/spritesheet-extended-final.png",
+  "encoded_bytes": 2016436,
+  "sha256": "03a9317e959e882cfe179ac71b9260e0ba4f9db77454312af733e93544beaea3",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      203,
+      188,
+      174,
+      189,
+      203
+    ],
+    "airborne_lift_pixels": 29,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.5,
+      95.0,
+      96.5,
+      98.5,
+      101.5,
+      100.0,
+      99.0,
+      98.0,
+      95.5,
+      95.5,
+      96.0,
+      95.0,
+      95.0,
+      94.0,
+      95.0,
+      94.0
+    ],
+    "look_widths": [
+      101,
+      96,
+      95,
+      93,
+      93,
+      96,
+      94,
+      94,
+      95,
+      93,
+      94,
+      92,
+      92,
+      94,
+      92,
+      92
+    ],
+    "maximum_center_drift_pixels": 6.0,
+    "maximum_width_ratio": 1.0978260869565217
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (2075 pixels vs neighbor average 1080)",
+    "292.5->315 diff is a local outlier (1543 pixels vs neighbor average 1062)",
+    "337.5->000 diff is a local outlier (2468 pixels vs neighbor average 1270)",
+    "337.5->000 sprite area ratio is high (1.17)"
+  ]
+}

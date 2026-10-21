@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "file": "<original-workspace>/work/repair-2026-10-21/chef/spritesheet.png",
+  "encoded_bytes": 1839347,
+  "sha256": "0803e88830efe15cbba053c64a1260e3b7bf990546995055b649029c56f607a7",
+  "format": "PNG",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "sprite_version_number": 2,
+  "width": 1536,
+  "height": 2288,
+  "transparent_rgb_residue_pixels": 0,
+  "errors": [],
+  "warnings": []
+}
+<original-home>/.codex/plugins/cache/openai-curated-remote/work-pets/0.1.6/skills/create-pet/scripts/validate_atlas.py:103: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  visible = [value > 0 for value in alpha.getdata()]
+<original-home>/.codex/plugins/cache/openai-curated-remote/work-pets/0.1.6/skills/create-pet/scripts/validate_atlas.py:116: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  rgba.getdata(), alpha.getdata(), expanded.getdata()

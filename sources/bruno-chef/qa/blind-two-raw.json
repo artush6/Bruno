@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "right",
+      "B": "left",
+      "reason": "A nose and muzzle point right; B nose and muzzle point left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "right",
+      "B": "left",
+      "reason": "A nose projects screen-right; B nose projects screen-left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "left",
+      "B": "right",
+      "reason": "A muzzle points left; B muzzle points right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "right",
+      "B": "left",
+      "reason": "A is right-facing in profile; B is left-facing in profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "right",
+      "B": "left",
+      "reason": "A nose points right; B nose points left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "left",
+      "B": "right",
+      "reason": "A lowered nose points down-left; B lowered nose points down-right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "left",
+      "B": "ambiguous",
+      "reason": "A nose points down-left; B face is nearly frontal with the nose centered."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A face and pupils look nearly straight ahead; B eyes and muzzle angle downward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A pupils and muzzle lift; B pupils are lowered toward the bowl."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and gaze angle upward; B nose and pupils angle down."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A head and gaze lift; B muzzle and gaze angle downward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A right-facing profile is close to level; B muzzle and gaze are raised."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A gaze drops toward the bowl; B nose and visible eye angle upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose angle down; B nose and gaze tilt upward."
+    }
+  ]
+}

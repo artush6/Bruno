@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "<original-workspace>/work/bruno/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10444,
+          "bbox": [
+            48,
+            53,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10452,
+          "bbox": [
+            48,
+            53,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 73
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10418,
+          "bbox": [
+            48,
+            53,
+            143,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10405,
+          "bbox": [
+            48,
+            53,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 65
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10393,
+          "bbox": [
+            48,
+            53,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10439,
+          "bbox": [
+            48,
+            53,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9325,
+          "bbox": [
+            43,
+            54,
+            149,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8441,
+          "bbox": [
+            50,
+            54,
+            141,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9125,
+          "bbox": [
+            46,
+            54,
+            146,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 99
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8453,
+          "bbox": [
+            50,
+            53,
+            142,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9163,
+          "bbox": [
+            46,
+            54,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8088,
+          "bbox": [
+            52,
+            53,
+            139,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/bruno/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8969,
+          "bbox": [
+            45,
+            54,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/bruno/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8791,
+          "bbox": [
+            49,
+            53,
+            143,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 89
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9201,
+          "bbox": [
+            46,
+            54,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8417,
+          "bbox": [
+            51,
+            54,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9189,
+          "bbox": [
+            45,
+            54,
+            147,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8474,
+          "bbox": [
+            50,
+            53,
+            142,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9197,
+          "bbox": [
+            46,
+            54,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8168,
+          "bbox": [
+            49,
+            53,
+            143,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/bruno/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9106,
+          "bbox": [
+            40,
+            54,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/bruno/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8827,
+          "bbox": [
+            49,
+            53,
+            143,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10551,
+          "bbox": [
+            46,
+            53,
+            145,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10894,
+          "bbox": [
+            40,
+            53,
+            151,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10864,
+          "bbox": [
+            39,
+            54,
+            152,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10581,
+          "bbox": [
+            46,
+            53,
+            145,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10091,
+          "bbox": [
+            45,
+            73,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11151,
+          "bbox": [
+            45,
+            39,
+            146,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12378,
+          "bbox": [
+            30,
+            5,
+            161,
+            160
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10771,
+          "bbox": [
+            46,
+            37,
+            145,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10984,
+          "bbox": [
+            43,
+            55,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 89
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10370,
+          "bbox": [
+            49,
+            55,
+            142,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10166,
+          "bbox": [
+            52,
+            53,
+            140,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9758,
+          "bbox": [
+            51,
+            58,
+            141,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9473,
+          "bbox": [
+            51,
+            64,
+            141,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8541,
+          "bbox": [
+            51,
+            74,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9625,
+          "bbox": [
+            49,
+            65,
+            142,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 73
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/bruno/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9881,
+          "bbox": [
+            50,
+            57,
+            142,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/bruno/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10370,
+          "bbox": [
+            49,
+            55,
+            142,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9735,
+          "bbox": [
+            47,
+            58,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9794,
+          "bbox": [
+            43,
+            53,
+            148,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9549,
+          "bbox": [
+            48,
+            58,
+            143,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9358,
+          "bbox": [
+            46,
+            55,
+            145,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9421,
+          "bbox": [
+            47,
+            57,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9559,
+          "bbox": [
+            49,
+            58,
+            143,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9314,
+          "bbox": [
+            54,
+            53,
+            137,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9235,
+          "bbox": [
+            55,
+            53,
+            137,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9206,
+          "bbox": [
+            54,
+            55,
+            137,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9150,
+          "bbox": [
+            55,
+            54,
+            136,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9234,
+          "bbox": [
+            54,
+            53,
+            137,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9315,
+          "bbox": [
+            54,
+            53,
+            137,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/bruno/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9319,
+          "bbox": [
+            52,
+            55,
+            140,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/bruno/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9238,
+          "bbox": [
+            50,
+            53,
+            141,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/bruno/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9295,
+          "bbox": [
+            52,
+            56,
+            139,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/bruno/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9251,
+          "bbox": [
+            50,
+            54,
+            141,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/bruno/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9039,
+          "bbox": [
+            50,
+            59,
+            141,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/bruno/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10137,
+          "bbox": [
+            47,
+            57,
+            144,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        }
+      ]
+    }
+  ]
+}

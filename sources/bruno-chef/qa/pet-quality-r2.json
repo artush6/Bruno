@@ -1,0 +1,73 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/pixel-chef-bruno/final/spritesheet-extended-r2.png",
+  "encoded_bytes": 1767260,
+  "sha256": "d5f2155d8e5d2e7ec724db14ac031b5690dc3916d3b153e2865e3260aa8f2e4d",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      202,
+      192,
+      170,
+      193,
+      202
+    ],
+    "airborne_lift_pixels": 32,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      94.5,
+      88.5,
+      87.0,
+      90.0,
+      93.0,
+      93.0,
+      95.0,
+      97.0,
+      96.0,
+      91.5,
+      91.5,
+      93.5,
+      93.0,
+      97.5,
+      100.0,
+      102.5
+    ],
+    "look_widths": [
+      83,
+      89,
+      92,
+      86,
+      80,
+      80,
+      76,
+      80,
+      80,
+      83,
+      83,
+      79,
+      78,
+      79,
+      84,
+      89
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.2105263157894737
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "045->067.5 diff is a local outlier (1437 pixels vs neighbor average 800)",
+    "112.5->135 diff is a local outlier (1743 pixels vs neighbor average 1137)",
+    "180->202.5 diff is a local outlier (1780 pixels vs neighbor average 1217)",
+    "247.5->270 diff is a local outlier (1961 pixels vs neighbor average 1138)",
+    "337.5->000 diff is a local outlier (2843 pixels vs neighbor average 1710)",
+    "337.5->000 center shift is high (8.7px)"
+  ]
+}

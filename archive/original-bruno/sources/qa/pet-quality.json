@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/bruno/final/spritesheet-extended.png",
+  "encoded_bytes": 1796540,
+  "sha256": "1290648088d6e60030214705fed31923dba9714cad98ecab8072b20421ab0d7f",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      189,
+      157,
+      190,
+      202
+    ],
+    "airborne_lift_pixels": 45,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      96.0,
+      95.5,
+      95.0,
+      96.0,
+      96.5,
+      96.0,
+      96.5,
+      96.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.5,
+      98.0,
+      96.5
+    ],
+    "look_widths": [
+      88,
+      87,
+      86,
+      84,
+      83,
+      84,
+      83,
+      83,
+      88,
+      86,
+      86,
+      86,
+      86,
+      87,
+      92,
+      89
+    ],
+    "maximum_center_drift_pixels": 2.0,
+    "maximum_width_ratio": 1.108433734939759
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (2340 pixels vs neighbor average 1234)",
+    "270->292.5 diff is a local outlier (1287 pixels vs neighbor average 888)"
+  ]
+}

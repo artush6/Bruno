@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/repair-2026-10-21/cozy/spritesheet.png",
+  "encoded_bytes": 2168209,
+  "sha256": "a5a8be0c75b2313f0cf044dca96912fcd83c4f1c304071464369a5a25c6cddd6",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      203,
+      185,
+      168,
+      186,
+      203
+    ],
+    "airborne_lift_pixels": 35,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      97.0,
+      95.0,
+      96.5,
+      99.0,
+      103.5,
+      101.0,
+      100.0,
+      99.5,
+      96.5,
+      94.5,
+      94.0,
+      94.0,
+      92.5,
+      93.0,
+      97.0,
+      96.0
+    ],
+    "look_widths": [
+      120,
+      114,
+      113,
+      110,
+      111,
+      114,
+      112,
+      111,
+      115,
+      107,
+      108,
+      108,
+      107,
+      106,
+      110,
+      112
+    ],
+    "maximum_center_drift_pixels": 8.0,
+    "maximum_width_ratio": 1.1320754716981132
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 337.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (2976 pixels vs neighbor average 1918)",
+    "247.5->270 diff is a local outlier (1891 pixels vs neighbor average 1211)",
+    "337.5->000 diff is a local outlier (3318 pixels vs neighbor average 2046)",
+    "337.5->000 sprite area ratio is high (1.16)"
+  ]
+}

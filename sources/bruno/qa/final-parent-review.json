@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "artifact": "final/spritesheet-extended-final-r2.png",
+  "cardinals": "All four pass independent strict-majority axis checks.",
+  "reviewed_warnings": [
+    {
+      "direction": "337.5",
+      "evidence": "Near-frontal raised chin closes the up-left arc into upward000; small facial yaw is subtle and never reverses right; accepted as the recorded subtle-intermediate warning."
+    },
+    {
+      "directions": [
+        "067.5",
+        "112.5"
+      ],
+      "evidence": "Labeled neighboring poses show the nose/chin rising toward067.5, then dropping below the right profile at112.5; pupil/eyeglass axes are subtle at normal size."
+    },
+    {
+      "directions": [
+        "202.5",
+        "247.5",
+        "292.5"
+      ],
+      "evidence": "Muzzle points left throughout. Chin tucks in down-left202.5/247.5 then lifts in292.5 up-left; no wrong-half motion or reversal."
+    }
+  ],
+  "motion": "Contact sheet and complete standard-frame strips reviewed; seated MacBook states preserve anatomical head size; jump leaves and returns to baseline."
+}

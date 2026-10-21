@@ -1,0 +1,16 @@
+{"pairs":[
+{"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A muzzle projects right and gaze points right; B muzzle projects left and gaze points left."},
+{"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A nose is at the left edge of the face; B nose and muzzle extend to the right edge."},
+{"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A snout extends left of its eyes; B snout extends right of its eyes."},
+{"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A face is in left-facing profile with nose on left; B nose is on right with gaze right."},
+{"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A lowered muzzle projects right; B lowered muzzle projects left."},
+{"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A lowered nose is left of head center; B lowered nose is right of head center."},
+{"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A muzzle and eyes angle down-left; B muzzle and eyes angle down-right."},
+{"pair":"vertical-1","A":"up","B":"down","reason":"A eyes look upward above a raised muzzle; B head tips forward with nose low and gaze downward."},
+{"pair":"vertical-2","A":"down","B":"up","reason":"A nose is lowered beneath the eyes with crown prominent; B muzzle lifts and eyes look toward upper right."},
+{"pair":"vertical-3","A":"up","B":"down","reason":"A snout tilts upward and pupils sit high; B nose tilts down with gaze toward lower right."},
+{"pair":"vertical-4","A":"up","B":"down","reason":"A muzzle is raised and eyes aim above horizontal; B muzzle drops below eye level and gaze aims lower right."},
+{"pair":"vertical-5","A":"up","B":"down","reason":"A eyes and muzzle lift toward upper left; B head bows with muzzle and gaze low to the left."},
+{"pair":"vertical-6","A":"down","B":"up","reason":"A muzzle is lowered and gaze angles down-left; B nose lifts and pupils look toward upper left."},
+{"pair":"vertical-7","A":"down","B":"up","reason":"A head bows and nose angles lower left; B head lifts and muzzle points upward left."}
+]}

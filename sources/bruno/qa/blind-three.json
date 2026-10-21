@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "screen-right",
+      "reason": "A faces the viewer with centered muzzle and eyes; B turns its muzzle and visible eye line toward screen-right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s muzzle points right; B\u2019s muzzle points left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A\u2019s muzzle points left; B\u2019s muzzle points right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A is in right-facing profile; B is in left-facing profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A\u2019s nose projects right; B\u2019s nose projects left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A\u2019s muzzle and gaze turn left; B\u2019s muzzle and gaze turn right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A\u2019s face points left and downward; B\u2019s face points right and downward."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A\u2019s eyes and muzzle tilt upward; B lowers its eyes and muzzle."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks down; B raises its gaze and muzzle."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A angles its face downward; B angles its face upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A\u2019s gaze is slightly raised; B\u2019s profile looks level with no clear vertical turn."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both are right-facing profiles with no clear up/down turn in the face."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A looks downward; B faces mostly forward with no clear vertical tilt."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A looks down-left; B\u2019s left-facing gaze is closer to level."
+    }
+  ]
+}

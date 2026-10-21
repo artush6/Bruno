@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet Chef Bruno.
+
+Pet identity: Dark chocolate brown bear, tan muzzle, rounded ears, chunky tiny square pixel art, limited palette and dark outline. White tall chef toque, white double-breasted coat, blue white red tricolor collar, white apron, brown bare paws. Small gray saucepan held against apron in one paw and brown ladle held in other paw, all connected. No text logos medals steam sparkles. Idle rests with pot, busy stirs soup, review inspects soup. Head tilts with toque while torso pot and feet stay anchored for look directions..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges. User style notes: Tiny retro game sprite like reference screenshot, crisp square pixels and dark outline, NOT 3D clay plush smooth illustration..
+
+
+Place a single centered pose on a perfectly flat pure user-selected #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

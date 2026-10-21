@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "frames_root": "<original-workspace>/work/repair-2026-10-21/chef/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": []
+}

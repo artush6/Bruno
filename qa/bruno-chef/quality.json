@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/repair-2026-10-21/chef/spritesheet.png",
+  "encoded_bytes": 1839347,
+  "sha256": "0803e88830efe15cbba053c64a1260e3b7bf990546995055b649029c56f607a7",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      204,
+      193,
+      169,
+      194,
+      204
+    ],
+    "airborne_lift_pixels": 35,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      94.5,
+      89.0,
+      87.5,
+      89.5,
+      93.0,
+      93.0,
+      95.5,
+      97.0,
+      96.0,
+      91.0,
+      92.0,
+      94.0,
+      94.5,
+      98.0,
+      100.5,
+      103.0
+    ],
+    "look_widths": [
+      85,
+      92,
+      95,
+      89,
+      82,
+      82,
+      79,
+      82,
+      82,
+      86,
+      86,
+      82,
+      81,
+      82,
+      87,
+      92
+    ],
+    "maximum_center_drift_pixels": 8.0,
+    "maximum_width_ratio": 1.2025316455696202
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "045->067.5 diff is a local outlier (1601 pixels vs neighbor average 953)",
+    "112.5->135 diff is a local outlier (2203 pixels vs neighbor average 1297)",
+    "247.5->270 diff is a local outlier (2102 pixels vs neighbor average 1192)",
+    "337.5->000 diff is a local outlier (3288 pixels vs neighbor average 1960)",
+    "337.5->000 center shift is high (9.4px)"
+  ]
+}

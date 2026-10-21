@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "<original-workspace>/work/pixel-chef-bruno/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 165058,
+      "edge_pixels": 0,
+      "output": "<original-workspace>/work/pixel-chef-bruno/decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 156800,
+      "edge_pixels": 0,
+      "output": "<original-workspace>/work/pixel-chef-bruno/decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 167091,
+      "edge_pixels": 0,
+      "output": "<original-workspace>/work/pixel-chef-bruno/decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 158385,
+      "edge_pixels": 0,
+      "output": "<original-workspace>/work/pixel-chef-bruno/decoded/look-anchors/270.png"
+    }
+  ]
+}

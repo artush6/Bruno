@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle and nose point left; B nose and muzzle angle right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left; B nose projects right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A muzzle points right; B muzzle points left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose is on the right-facing profile; B nose is on the left-facing profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and muzzle point right; B nose and muzzle point left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered muzzle points left; B lowered muzzle points right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose points down-left; B nose points down-right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle and gaze lift upward; B pupils and nose angle down toward the bowl."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and pupils are raised; B nose and pupils point downward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowered nose and gaze angle toward the bowl; B nose and visible eye tilt upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and pupil dip toward the bowl; B nose and gaze are lifted."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both right-facing profiles have near-level noses and visible pupils."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A pupils and muzzle angle down; B muzzle and gaze tilt upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and visible eye angle up-left; B pupils and muzzle angle down."
+    }
+  ]
+}

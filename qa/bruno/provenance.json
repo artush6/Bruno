@@ -1,0 +1,10 @@
+{
+  "source": "<original-workspace>/work/repair-2026-10-21/current-cozy.png",
+  "source_sha256": "f6f97483ae1a389bbffafe2ee1d8557c3e250b2ea0d07b8c82fa1b12fb4e1220",
+  "operation": "one shared nearest-neighbor scale and baseline for all 73 frames",
+  "scale": 1.19,
+  "source_baseline": 204,
+  "destination_baseline": 204,
+  "semantic_evidence": "<original-workspace>/work/pixel-cozy-bruno/qa/direction-semantics-r2.json",
+  "chroma_evidence": "<original-workspace>/work/pixel-cozy-bruno/qa/chroma-despill-extended-r2.json"
+}

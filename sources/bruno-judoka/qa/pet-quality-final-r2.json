@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/pixel-judoka-bruno/final/spritesheet-extended-final-r2.png",
+  "encoded_bytes": 1899791,
+  "sha256": "78d0c7f52d5fa4ba90e9b014d5a2a3249d5adbc7d2504df8e30ddfef57dfa353",
+  "jump": {
+    "idle_baseline": 198,
+    "jump_baselines": [
+      198,
+      172,
+      157,
+      175,
+      198
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.0,
+    "look_centers_x": [
+      96.0,
+      95.0,
+      95.5,
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      95.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      97.5
+    ],
+    "look_widths": [
+      84,
+      84,
+      85,
+      83,
+      84,
+      84,
+      84,
+      84,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      93
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.1204819277108433
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (2194 pixels vs neighbor average 802)",
+    "157.5->180 sprite area ratio is high (1.21)",
+    "337.5->000 diff is a local outlier (1690 pixels vs neighbor average 944)"
+  ]
+}

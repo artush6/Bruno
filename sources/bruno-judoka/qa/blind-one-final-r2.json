@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and pupil point left; B muzzle and visible gaze angle right and upward."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle points left; B muzzle and gaze point right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose points left; B nose points right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle and gaze turn left; B muzzle and gaze turn right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left; B nose projects right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and gaze turn right; B nose and gaze turn left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "screen-left",
+      "reason": "A looks down almost directly toward the viewer, with nose near center; B nose and gaze angle down-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A pupils and muzzle lower toward the belt; B pupils and muzzle lift toward the hat brim."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A gaze and nose point down; B gaze and nose tilt upward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A pupils and muzzle lift upward; B eye and nose angle down-right."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle and gaze angle up-right; B gaze and muzzle angle lower, toward the right."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose dip down-right; B pupils and muzzle lift up-left."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A pupils and nose point up-left; B head and gaze lower toward the belt."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes and muzzle angle up-left; B eyes and muzzle dip down-left."
+    }
+  ]
+}

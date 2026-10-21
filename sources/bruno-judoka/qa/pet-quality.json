@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "atlas": "<original-workspace>/work/pixel-judoka-bruno/final/spritesheet-extended.png",
+  "encoded_bytes": 1908427,
+  "sha256": "d2a6b50a87c33231a90b7ff2c5f912499bac775479bfb864a0c3dc54e6b43b67",
+  "jump": {
+    "idle_baseline": 198,
+    "jump_baselines": [
+      198,
+      172,
+      157,
+      175,
+      198
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.0,
+    "look_centers_x": [
+      95.5,
+      96.5,
+      96.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      96.5,
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.5,
+      97.5
+    ],
+    "look_widths": [
+      89,
+      89,
+      89,
+      89,
+      89,
+      89,
+      89,
+      89,
+      89,
+      88,
+      88,
+      88,
+      88,
+      88,
+      89,
+      91
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.0340909090909092
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (1288 pixels vs neighbor average 860)",
+    "337.5->000 diff is a local outlier (1454 pixels vs neighbor average 799)"
+  ]
+}

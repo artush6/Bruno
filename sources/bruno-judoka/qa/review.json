@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "<original-workspace>/work/pixel-judoka-bruno/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9528,
+          "bbox": [
+            51,
+            60,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9562,
+          "bbox": [
+            51,
+            60,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 71
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9586,
+          "bbox": [
+            51,
+            60,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 59
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9581,
+          "bbox": [
+            51,
+            61,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9522,
+          "bbox": [
+            51,
+            60,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9551,
+          "bbox": [
+            51,
+            60,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14343,
+          "bbox": [
+            33,
+            19,
+            159,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12329,
+          "bbox": [
+            42,
+            19,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13560,
+          "bbox": [
+            38,
+            19,
+            153,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14199,
+          "bbox": [
+            33,
+            19,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12529,
+          "bbox": [
+            38,
+            19,
+            153,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13356,
+          "bbox": [
+            38,
+            19,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14296,
+          "bbox": [
+            33,
+            19,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13151,
+          "bbox": [
+            39,
+            19,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13679,
+          "bbox": [
+            33,
+            20,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11945,
+          "bbox": [
+            41,
+            20,
+            151,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12302,
+          "bbox": [
+            42,
+            19,
+            151,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13550,
+          "bbox": [
+            33,
+            19,
+            159,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12378,
+          "bbox": [
+            40,
+            20,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12247,
+          "bbox": [
+            42,
+            19,
+            151,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13614,
+          "bbox": [
+            33,
+            19,
+            160,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12827,
+          "bbox": [
+            36,
+            19,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9643,
+          "bbox": [
+            50,
+            61,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8892,
+          "bbox": [
+            49,
+            62,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7907,
+          "bbox": [
+            50,
+            75,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9706,
+          "bbox": [
+            49,
+            61,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11456,
+          "bbox": [
+            45,
+            53,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11352,
+          "bbox": [
+            45,
+            26,
+            147,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13040,
+          "bbox": [
+            32,
+            2,
+            160,
+            159
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12081,
+          "bbox": [
+            38,
+            25,
+            154,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11586,
+          "bbox": [
+            45,
+            52,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9041,
+          "bbox": [
+            53,
+            60,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8793,
+          "bbox": [
+            53,
+            60,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8471,
+          "bbox": [
+            54,
+            64,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8343,
+          "bbox": [
+            54,
+            65,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8326,
+          "bbox": [
+            54,
+            65,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8358,
+          "bbox": [
+            54,
+            65,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 6,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8764,
+          "bbox": [
+            53,
+            60,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        },
+        {
+          "index": 7,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8936,
+          "bbox": [
+            53,
+            60,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8797,
+          "bbox": [
+            53,
+            63,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8681,
+          "bbox": [
+            52,
+            66,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8791,
+          "bbox": [
+            52,
+            61,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8705,
+          "bbox": [
+            52,
+            65,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8521,
+          "bbox": [
+            52,
+            66,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8768,
+          "bbox": [
+            53,
+            63,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16539,
+          "bbox": [
+            25,
+            25,
+            167,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13832,
+          "bbox": [
+            37,
+            26,
+            155,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14912,
+          "bbox": [
+            11,
+            16,
+            181,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13602,
+          "bbox": [
+            5,
+            45,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15562,
+          "bbox": [
+            19,
+            33,
+            173,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16328,
+          "bbox": [
+            25,
+            26,
+            167,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9786,
+          "bbox": [
+            50,
+            61,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 1,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9099,
+          "bbox": [
+            51,
+            62,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 2,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9063,
+          "bbox": [
+            51,
+            62,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 3,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9089,
+          "bbox": [
+            53,
+            61,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 4,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9285,
+          "bbox": [
+            51,
+            62,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 5,
+          "file": "<original-workspace>/work/pixel-judoka-bruno/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9718,
+          "bbox": [
+            50,
+            61,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        }
+      ]
+    }
+  ]
+}

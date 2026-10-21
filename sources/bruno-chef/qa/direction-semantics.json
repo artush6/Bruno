@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose lifts centrally above neutral muzzle; pupils raised under upper eyelids while torso stays frontal. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose displaced right and lifted; pupils face upper right, chin lifted. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Muzzle projects upper right; raised pupils and exposed lower muzzle signal upward pitch. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right gaze through head and muzzle motion",
+      "verdict": "warning",
+      "evidence": "Head yaws right with lifted nose; pupils upper right and chin elevated. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose projects clearly screen-right, rightward pupil gaze; head held approximately level. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right gaze through head and muzzle motion",
+      "verdict": "warning",
+      "evidence": "Nose projects right and drops relative to brow; pupils point below eye centers. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Muzzle points right and down with bowed head; pupils lower-right. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right gaze through head and muzzle motion",
+      "verdict": "warning",
+      "evidence": "Head bowed with nose down and right of head center; pupils low-right; next downward cardinal returns muzzle toward center. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Head bows centrally; nose sits low and both pupils point down toward belly. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose moves to left and downward; eyelids and pupils follow down-left. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Muzzle projects left with bowed head and lowered pupils. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left gaze through head and muzzle motion",
+      "verdict": "warning",
+      "evidence": "Nose left of head center and slightly low; leftward gaze preserves downward pitch. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose and muzzle project unambiguously screen-left, pupils left, head approximately level. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Nose projects left and lifts with upper-left pupils and raised chin. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left gaze through head and muzzle motion",
+      "verdict": "pass",
+      "evidence": "Head pitches up-left; raised nose points left of center and pupils toward upper-left. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left gaze through head and muzzle motion",
+      "verdict": "warning",
+      "evidence": "Muzzle lifted almost centrally with residual screen-left offset; pupils upward and left. Chef toque follows the physical head, while coat, saucepan, ladle and feet remain anchored."
+    }
+  ],
+  "continuity_review": "All sixteen poses and boundaries reviewed at native size. Toque and cheek silhouette cause metric outliers at several pitch/yaw changes, including up-left to up. Feet, pot and body remain stable, same scale; all cardinals unambiguous. Intermediate angle steps vary modestly but remain in correct quadrants, no direction reversal."
+}

@@ -1,0 +1,1 @@
+Feet, coat, apron, pot and hands stay frontal and planted. Physical head yaws and pitches; tan muzzle and nose lead eyes and chef toque follows head. Preserve pixel eye construction. Ladle and pot keep canonical handedness. No body turntable.

@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "output_dir": "<original-workspace>/work/repair-2026-10-21/cozy/previews",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "<original-workspace>/work/repair-2026-10-21/cozy/previews/review.gif",
+      "frames": 6
+    }
+  ]
+}
